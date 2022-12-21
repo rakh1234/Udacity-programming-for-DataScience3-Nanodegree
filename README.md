@@ -4,7 +4,7 @@
 21 December 2022.
 
 ### Project Title
-Github Project.
+Github commands Project.
 
 ### Description
 adding github commands such as add, push and etc. to make changes on the documentation and commit these changes.
