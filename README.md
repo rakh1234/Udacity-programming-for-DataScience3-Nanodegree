@@ -10,9 +10,10 @@ Github commands Project.
 adding github commands such as add, push and etc. to make changes on the documentation and commit these changes.
 
 ### Files used
-git-commands-documentation.pds
-chicago.csv
-new_york_city.csv
-washington.csv
+- git-commands-documentation.pds
+- chicago.csv
+- new_york_city.csv
+- washington.csv
+- bikeshare_2.py
 
 
