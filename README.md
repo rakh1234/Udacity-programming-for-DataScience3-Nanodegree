@@ -11,7 +11,7 @@ intersested in Data science, IOS apps development.
 Github commands Project.
 
 ### Description
-adding github commands such as add, push and etc. to make changes on the documentation and commit these changes.
+adding github commands, to make changes on the documentation and commit these changes.
 
 ### Files used
 - git-commands-documentation.pds
