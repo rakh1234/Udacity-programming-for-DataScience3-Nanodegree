@@ -6,10 +6,10 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-##filter the result-->
+##filter the result
 def get_filters():
-    print('******US bikeshare data********')
     print('Welcome')
+    print('******US bikeshare data********')
     print('******************************')
     
     city = input('Enter the city you want see data for Chicago , New York City or Washington : ')
